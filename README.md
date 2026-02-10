@@ -66,7 +66,7 @@ README.md
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/zelja2003/ecs-game
    ```
 
 2. Open `index.html` in your browser  
