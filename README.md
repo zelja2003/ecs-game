@@ -94,4 +94,4 @@ This project was created as part of a **Functional Programming course**, with th
 
 ## 👤 Author
 
-Student project – Faculty assignment  
+Zeljko Petkovic 
